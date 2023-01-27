@@ -1,0 +1,241 @@
+PhABLang201
+base,18015,Window Title,0,0,TextFont09,0,My Application
+filterShow1,3011,Toggle Text,0,0,TextFont09,16,
+ВыводитьfilterGp1,23001,List of Items,0,0,TextFont09,0,Все
+filterGp1,23001,List of Items,1,0,TextFont09,0,Неопознана
+filterGp1,23001,List of Items,2,0,TextFont09,0,Чужая
+filterGp1,23001,List of Items,3,0,TextFont09,0,Своя
+filterTc1,23001,List of Items,0,0,TextFont09,0,Все
+filterTc1,23001,List of Items,1,0,TextFont09,0,Неопр
+filterTc1,23001,List of Items,2,0,TextFont09,0,Вц
+filterTc1,23001,List of Items,3,0,TextFont09,0,МЦ(НЦ)
+filterTc1,23001,List of Items,4,0,TextFont09,0,Вертолет
+filterTc1,23001,List of Items,5,0,TextFont09,0,Самолет
+filterTc1,23001,List of Items,6,0,TextFont09,0,ПРР
+filterTc1,23001,List of Items,7,0,TextFont09,0,ПКР
+filterTc1,23001,List of Items,8,0,TextFont09,0,ВПЦ
+filterNrls1,3011,Text String,0,0,TextFont09,0,Все
+filterNpuma1,3011,Text String,0,0,TextFont09,0,Все
+setNrls1,3011,Button  Text,0,0,TextFont09,12,
+ЗадатьsetNpuma1,3011,Button  Text,0,0,TextFont09,12,
+ЗадатьfilterGp0,23001,List of Items,0,0,TextFont09,0,Все
+filterGp0,23001,List of Items,1,0,TextFont09,0,Неопознана
+filterGp0,23001,List of Items,2,0,TextFont09,0,Чужая
+filterGp0,23001,List of Items,3,0,TextFont09,0,Своя
+filterTc0,23001,List of Items,0,0,TextFont09,0,Все
+filterTc0,23001,List of Items,1,0,TextFont09,0,Неопр
+filterTc0,23001,List of Items,2,0,TextFont09,0,Надв
+filterTc0,23001,List of Items,3,0,TextFont09,0,Возд неопр
+filterTc0,23001,List of Items,4,0,TextFont09,0,Ловушка
+filterTc0,23001,List of Items,5,0,TextFont09,0,Самолет
+filterTc0,23001,List of Items,6,0,TextFont09,0,ПКР
+filterTc0,23001,List of Items,7,0,TextFont09,0,ПРР
+filterTc0,23001,List of Items,8,0,TextFont09,0,ВЕРТ
+filterTc0,23001,List of Items,9,0,TextFont09,0,ВПЦ
+filterShow0,3011,Toggle Text,0,0,TextFont09,16,
+ВыводитьfilterNt0,3011,Text String,0,0,TextFont09,0,Все
+setNt0,3011,Button  Text,0,0,TextFont09,12,
+ЗадатьfilterShow01,3011,Toggle Text,0,0,TextFont09,63,
+Только привязанное 
+по  времени 3к96setSendRli,3011,Button  Text,0,0,TextFont09,12,
+ЗадатьfilterSendRli,3011,Text String,0,0,TextFont09,0,Все
+filterShow2,3011,Toggle Text,0,0,TextFont09,35,
+Координаты корабляfilterShow3,3011,Toggle Text,0,0,TextFont09,10,
+ВремяfilterShow4,3011,Toggle Text,0,0,TextFont09,18,
+67: тревогаfilterShow5,3011,Toggle Text,0,0,TextFont09,12,
+67: цельfilterShow6,3011,Toggle Text,0,0,TextFont09,35,
+67: удаление запросаfilterShow7,3011,Toggle Text,0,0,TextFont09,33,
+67: откл запросчикаfilterShow8,3011,Toggle Text,0,0,TextFont09,27,
+67: новый запросfilterShow9,3011,Toggle Text,0,0,TextFont09,27,
+Ручное назн  ГПfilterShow10,3011,Toggle Text,0,0,TextFont09,22,
+Запрос в ПАиfilterShow11,3011,Toggle Text,0,0,TextFont09,38,
+Рез ГО: присвоение ГПfilterShow12,3011,Toggle Text,0,0,TextFont09,30,
+Ответ по цели 5П20filterShow13,3011,Toggle Text,0,0,TextFont09,23,
+Задание целиfilterShow14,3011,Toggle Text,0,0,TextFont09,27,
+Очистка каналаfilterShow15,3011,Toggle Text,0,0,TextFont09,23,
+Сброс каналаfilterShow16,3011,Toggle Text,0,0,TextFont09,9,
+в РЛИfilterShow17,3011,Toggle Text,0,0,TextFont09,13,
+в РедутfilterShow18,3011,Toggle Text,0,0,TextFont09,32,
+дир оператора ТС=1filterShow19,3011,Toggle Text,0,0,TextFont09,31,
+ответ на дир оперfilterShow20,3011,Toggle Text,0,0,TextFont09,20,
+дир упр ТС=3filterShow21,3011,Toggle Text,0,0,TextFont09,29,
+ответ на дир упрfilterShow22,3011,Toggle Text,0,0,TextFont09,36,
+БОС: изл, ЗАЗ, ЗИ, СПЗfilterShow23,3011,Toggle Text,0,0,TextFont09,20,
+режимы, ПАВfilterX,3011,Toggle Text,0,0,TextFont09,20,
+Команды в ХpaneX,10007,Title,0,0,TextFont09,11,
+Цели ХLabelNx,3011,Label Text,0,0,TextFont09,2,
+Нfilter_TargetX,3011,Toggle Text,0,0,TextFont09,16,
+ВыводитьfilterNtX,3011,Text String,0,0,TextFont09,0,Все
+setNtX,3011,Button  Text,0,0,TextFont09,12,
+Задатьfilter_TargetServal,3011,Toggle Text,0,0,TextFont09,23,
+Цель Сервалаfilter_StateServal,3011,Toggle Text,0,0,TextFont09,33,
+Состояние Сервалаfilter_StateTelevik,3011,Toggle Text,0,0,TextFont09,33,
+Состояние ТелевикbtnKey1,3011,Button  Text,0,0,TextFont12,1,
+1btnKey2,3011,Button  Text,0,0,TextFont12,2,
+2
+btnKey3,3011,Button  Text,0,0,TextFont12,2,
+3
+btnKey4,3011,Button  Text,0,0,TextFont12,1,
+4btnKey5,3011,Button  Text,0,0,TextFont12,2,
+5
+btnKey6,3011,Button  Text,0,0,TextFont12,2,
+6
+btnKey7,3011,Button  Text,0,0,TextFont12,1,
+7btnKey8,3011,Button  Text,0,0,TextFont12,2,
+8
+btnKey9,3011,Button  Text,0,0,TextFont12,2,
+9
+btnKey0,3011,Button  Text,0,0,TextFont12,1,
+0btnKeyBackspace,3011,Button  Text,0,0,TextFont12,2,
+<-btnKeyQ,3011,Button  Text,0,0,TextFont12,1,
+QbtnKeyW,3011,Button  Text,0,0,TextFont12,2,
+W
+btnKeyE,3011,Button  Text,0,0,TextFont12,2,
+E
+btnKeyR,3011,Button  Text,0,0,TextFont12,2,
+R
+btnKeyT,3011,Button  Text,0,0,TextFont12,2,
+T
+btnKeyY,3011,Button  Text,0,0,TextFont12,2,
+Y
+btnKeyU,3011,Button  Text,0,0,TextFont12,2,
+U
+btnKeyI,3011,Button  Text,0,0,TextFont12,2,
+I
+btnKeyO,3011,Button  Text,0,0,TextFont12,2,
+O
+btnKeyP,3011,Button  Text,0,0,TextFont12,2,
+P
+btnKeyA,3011,Button  Text,0,0,TextFont12,2,
+A
+btnKeyS,3011,Button  Text,0,0,TextFont12,2,
+S
+btnKeyD,3011,Button  Text,0,0,TextFont12,2,
+D
+btnKeyF,3011,Button  Text,0,0,TextFont12,2,
+F
+btnKeyG,3011,Button  Text,0,0,TextFont12,2,
+G
+btnKeyH,3011,Button  Text,0,0,TextFont12,2,
+H
+btnKeyJ,3011,Button  Text,0,0,TextFont12,2,
+J
+btnKeyK,3011,Button  Text,0,0,TextFont12,2,
+K
+btnKeyL,3011,Button  Text,0,0,TextFont12,2,
+L
+btnKeyUnderline,3011,Button  Text,0,0,TextFont12,2,
+_
+btnKeyZ,3011,Button  Text,0,0,TextFont12,2,
+Z
+btnKeyX,3011,Button  Text,0,0,TextFont12,2,
+X
+btnKeyC,3011,Button  Text,0,0,TextFont12,2,
+C
+btnKeyV,3011,Button  Text,0,0,TextFont12,2,
+V
+btnKeyB,3011,Button  Text,0,0,TextFont12,2,
+B
+btnKeyN,3011,Button  Text,0,0,TextFont12,2,
+N
+btnKeyM,3011,Button  Text,0,0,TextFont12,2,
+M
+btnKeyPoint,3011,Button  Text,0,0,TextFont12,2,
+.
+btnCancel,3011,Button  Text,0,0,TextFont12,13,
+Отмена
+btnRenameOK,3011,Button  Text,0,0,TextFont12,27,
+Переименовать
+clearView,3011,Button  Text,0,0,TextFont09,10,
+СбросPtButton1,3011,Button  Text,0,0,TextFont10b,1,
++PtButton2,3011,Button  Text,0,0,TextFont10b,1,
+-viewScaleEdit,3011,Label Text,0,0,TextFont10b,5,
+150kmDelFileNameLb,3011,Label Text,0,0,TextFont11b,14,
+УдалитьpDFDEl,3011,Button  Text,0,0,TextFont10b,14,
+УдалитьpDFCancel,3011,Button  Text,0,0,TextFont10b,12,
+ОтменаbtnRenameErrOK,3011,Button  Text,0,0,TextFont14b,12,
+ОтменаsetTimeDay,3011,Text String,0,0,TextFont11b,0,12
+setTimeMonth,3011,Text String,0,0,TextFont11b,0,15
+setTimeYear,3011,Text String,0,0,TextFont11b,0,2011
+setTimeOk,3011,Button  Text,0,0,TextFont09b,12,
+ЗадатьsetTimeCancel,3011,Button  Text,0,0,TextFont09b,12,
+ОтменаsetTimeH,3011,Text String,0,0,TextFont11b,0,12
+setTimeM,3011,Text String,0,0,TextFont11b,0,13
+setTimeS,3011,Text String,0,0,TextFont11b,0,34
+docExit,3011,Button  Text,0,0,TextFont09b,10,
+ВыходdocSetup,3011,Button  Text,0,0,TextFont09b,37,
+Настройка
+просмотраdocCurTime,3011,Label Text,0,0,TextFont09b,19,
+00:02:45
+20.11.2010butSaveTxt,3011,Button  Text,0,0,TextFont09b,18,
+СохранитьbutOpenTxt,3011,Button  Text,0,0,TextFont09b,14,
+ОткрытьcloseLog,3011,Button  Text,0,0,TextFont09b,35,
+Закончить
+просмотрbutSaveTxt0,3011,Button  Text,0,0,TextFont09b,10,
+ОбзорbutSaveTxt1,3011,Button  Text,0,0,TextFont09b,16,
+ДокументlabelSpeed,3011,Label Text,0,0,TextFont10b,2,
+x5setupExit,3011,Button  Text,0,0,TextFont09b,10,
+ВыходsetupOk,3011,Button  Text,0,0,TextFont09b,12,
+ЗадатьsetupCancel,3011,Button  Text,0,0,TextFont09b,12,
+ОтменаselExit,3011,Button  Text,0,0,TextFont09b,10,
+ВыходstartView,3011,Button  Text,0,0,TextFont09b,29,
+Начать
+просмотрkey0,3011,Button  Text,0,0,TextFont11b,1,
+0key1,3011,Button  Text,0,0,TextFont11b,1,
+1key2,3011,Button  Text,0,0,TextFont11b,1,
+2key3,3011,Button  Text,0,0,TextFont11b,1,
+3key4,3011,Button  Text,0,0,TextFont11b,1,
+4key5,3011,Button  Text,0,0,TextFont11b,1,
+5key6,3011,Button  Text,0,0,TextFont11b,1,
+6key7,3011,Button  Text,0,0,TextFont11b,1,
+7key8,3011,Button  Text,0,0,TextFont11b,1,
+8key9,3011,Button  Text,0,0,TextFont11b,1,
+9keyOk,3011,Button  Text,0,0,TextFont11b,4,
+ДаkeyCancel,3011,Button  Text,0,0,TextFont11b,6,
+НетkeyAdd,3011,Button  Text,0,0,TextFont09b,16,
+ДобавитьkeyDel,3011,Button  Text,0,0,TextFont09b,14,
+УдалитьkeyReset,3011,Button  Text,0,0,TextFont09b,10,
+СбросdocName,3011,Label Text,0,0,TextFont10b,27,
+Документация_12docTableTime1,3011,Label Text,0,0,TextFont08,1,
+
+docTimeStart,3011,Button  Text,0,0,TextFont08b,0,Button
+docTimeEnd,3011,Button  Text,0,0,TextFont08b,19,
+21.12.233
+12:34:23
+fileState,3011,Label Text,0,0,TextFont10b,39,
+Файл архива
+не выбранfileSortName,3011,Button  Text,0,0,TextFont11b,22,
+Файл архива
+fileDelete,3011,Button  Text,0,0,TextFont09b,14,
+УдалитьfileRefresh,3011,Button  Text,0,0,TextFont09b,16,
+ОбновитьfileRename,3011,Button  Text,0,0,TextFont09b,26,
+ПереименоватьfileCopy,3011,Button  Text,0,0,TextFont09b,20,
+КопироватьfileSplit,3011,Button  Text,0,0,TextFont09b,19,
+Разделить
+fileMerge,3011,Button  Text,0,0,TextFont09b,19,
+Соединить
+fileMergeSplitApply,3011,Button  Text,0,0,TextFont09b,19,
+Применить
+PtLabel_PaneLogFilesToMerge_str_1,3011,Label Text,0,0,TextFont09,0,Label
+PtLabel_PaneLogFilesToMerge_str_2,3011,Label Text,0,0,TextFont09,0,Label
+PtLabel_PaneLogFilesToMerge_str_3,3011,Label Text,0,0,TextFont09,0,Label
+PtLabel_PaneLogFilesToMerge_str_4,3011,Label Text,0,0,TextFont09,0,Label
+PtLabel_PaneLogFilesToMerge_str_5,3011,Label Text,0,0,TextFont09,0,Label
+PtLabel_Split_TimeEnd,3011,Label Text,0,0,TextFont09,1,
+0PtLabel_Split_TimeCurent,3011,Label Text,0,0,TextFont09,1,
+0PtLabel_Split_TimeStart,3011,Label Text,0,0,TextFont09,1,
+0PtLabel_PaneLofFiles_str_1,3011,Label Text,0,0,TextFont09,0,Label
+PtLabel_PaneLofFiles_str_2,3011,Label Text,0,0,TextFont09,0,Label
+PtLabel_PaneLofFiles_str_3,3011,Label Text,0,0,TextFont09,0,Label
+PtLabel_PaneLofFiles_str_4,3011,Label Text,0,0,TextFont09,0,Label
+PtLabel_PaneLofFiles_str_5,3011,Label Text,0,0,TextFont09,0,Label
+PtLabel_PaneLofFiles_str_6,3011,Label Text,0,0,TextFont09,0,Label
+PtLabel_PaneLofFiles_str_7,3011,Label Text,0,0,TextFont09,0,Label
+PtLabel_PaneLofFiles_str_8,3011,Label Text,0,0,TextFont09,0,Label
+PtLabel_PaneLofFiles_str_9,3011,Label Text,0,0,TextFont09,0,Label
+PtLabel_PaneLofFiles_str_10,3011,Label Text,0,0,TextFont09,0,Label
+PtLabel_PaneLofFiles_str_11,3011,Label Text,0,0,TextFont09,0,Label
+PtLabel_PaneLofFiles_str_12,3011,Label Text,0,0,TextFont09,0,Label
+PtLabel_PaneLofFiles_str_13,3011,Label Text,0,0,TextFont09,0,Label
+PtLabel_PaneLofFiles_str_14,3011,Label Text,0,0,TextFont09,0,Label
+PtLabel_PaneLofFiles_str_15,3011,Label Text,0,0,TextFont09,0,Label

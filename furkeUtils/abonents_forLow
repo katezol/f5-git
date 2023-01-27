@@ -1,0 +1,15 @@
+stoika_main_port	/net/RMO_1.SKALA/dev/stoika_main
+pvo_alg_port 		/net/RMO_1.SKALA/dev/pvo_alg
+rmo1_port 		/net/RMO_1.SKALA/dev/rmo1
+rmo2_port 		/net/RMO_1.SKALA/dev/rmo2
+rmo2_low_port   	/net/RMO_1.SKALA/dev/rmo2_low
+bos_port        	/net/RMO_1.SKALA/dev/bos
+redut_port 		/net/RMO_1.SKALA/dev/redut
+puma_port 		/net/RMO_1.SKALA/dev/puma
+chardash_port 		/net/RMO_1.SKALA/dev/chardash
+sigma_port 		/net/RMO_1.SKALA/dev/sigma
+blokirovka_port 	/net/RMO_1.SKALA/dev/blokirovka
+uit_port		/net/RMO_1.SKALA/dev/uit
+imredut_port 		/net/RMO_1.SKALA/dev/imredut
+impuma_port 		/net/RMO_1.SKALA/dev/impuma
+imchardash_port 	/net/RMO_1.SKALA/dev/imchardash

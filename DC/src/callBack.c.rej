@@ -1,0 +1,11 @@
+--- callBack.c
++++ callBack.c
+@@ -146,7 +146,7 @@
+ 	PtSetResource((PtWidget_t *)ABW_PtProgressFilter, Pt_ARG_GAUGE_VALUE , 0, 0);
+ 	PtWidgetToFront(ABW_PtPaneFilter);
+ 	for(i=0,j=0; i<countFrame; i++){
+-		if(frame[i].data[4]==DI_FORMULAR_TRASSA_STRUCT2){
++		if(frame[i].data[4]==DI_FORMULAR_TRASSA){
+ 			if(filterFormularTrassaStruct2(&frame[i].data[5])==1){
+ 				frame[i].show = 1;
+ 				showFrame[j] = i;

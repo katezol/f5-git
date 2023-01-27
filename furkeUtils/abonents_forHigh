@@ -1,0 +1,15 @@
+stoika_main_port	/dev/stoika_main
+pvo_alg_port 		/dev/pvo_alg
+rmo1_port 		/dev/rmo1
+rmo2_port 		/dev/rmo2
+rmo2_low_port   	/dev/rmo2_low
+bos_port        	/dev/bos
+redut_port 		/dev/redut
+puma_port 		/dev/puma
+chardash_port 		/dev/chardash
+sigma_port 		/dev/sigma
+blokirovka_port 	/dev/blokirovka
+uit_port		/dev/uit
+imredut_port 		/dev/imredut
+impuma_port 		/dev/impuma
+imchardash_port 	/dev/imchardash
