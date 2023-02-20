@@ -1,0 +1,5 @@
+QDEVARS:
+	@echo INCVPATH::$(OS)::$(CPU)::$(INCVPATH)
+	@echo SRCVPATH::$(OS)::$(CPU)::$(SRCVPATH)
+	@echo LIBVPATH::$(OS)::$(CPU)::$(LIBVPATH)
+	@echo LIBS::$(OS)::$(CPU)::$(LIBS)
